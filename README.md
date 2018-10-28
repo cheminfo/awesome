@@ -17,6 +17,8 @@ A collection of awesome things for ChemInfo developers
 
 A React framework for building text editors.
 
+Draft.js is a JavaScript rich text editor framework, built for React and backed by an immutable model.
+
 #### [formik](https://github.com/jaredpalmer/formik)
 
 Build forms in React, without the tears.
