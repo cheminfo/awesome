@@ -7,6 +7,7 @@ A collection of awesome things for ChemInfo developers
     - [draft-js](#draft-js)
     - [formik](#formik)
     - [react-dropzone](#react-dropzone)
+    - [the-platform](#the-platform)
 
 ## Front-end
 
@@ -23,3 +24,7 @@ Build forms in React, without the tears.
 #### [react-dropzone](https://github.com/react-dropzone/react-dropzone)
 
 Simple HTML5-compliant drag'n'drop zone for files built with React.js.
+
+#### [the-platform](https://github.com/palmerhq/the-platform)
+
+Web API's turned into React Hooks and Suspense-friendly React components.
