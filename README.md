@@ -4,11 +4,21 @@ A collection of awesome things for ChemInfo developers
 
 - [Front-end](#front-end)
   - [React](#react)
+    - [draft-js](#draft-js)
+    - [formik](#formik)
     - [react-dropzone](#react-dropzone)
 
 ## Front-end
 
 ### React
+
+#### [draft-js](https://github.com/facebook/draft-js)
+
+A React framework for building text editors.
+
+#### [formik](https://github.com/jaredpalmer/formik)
+
+Build forms in React, without the tears.
 
 #### [react-dropzone](https://github.com/react-dropzone/react-dropzone)
 
