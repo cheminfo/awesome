@@ -52,6 +52,6 @@ Simply gzip and ungzip in Node.js with promises
 
 #### [crypto-md5](https://github.com/jtblin/crypto-md5)
 
-One line npm that allows to generate md5. Equivalent to:
+One line npm that allows to generate md5. Use the native node `crypto`library. Equivalent to:
 
 `crypto.createHash('md5').update(data).digest(digest || 'base64');`
