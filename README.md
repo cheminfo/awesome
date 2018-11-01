@@ -43,3 +43,8 @@ Web API's turned into React Hooks and Suspense-friendly React components.
 #### [use-immer](https://github.com/mweststrate/use-immer)
 
 A hook to use immer as a React hook to manipulate state.
+
+## NPM packages
+
+* node-gzip
+* for md5 use crypto (or crypto-md5)
