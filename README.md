@@ -44,7 +44,14 @@ Web API's turned into React Hooks and Suspense-friendly React components.
 
 A hook to use immer as a React hook to manipulate state.
 
-## NPM packages
+### Backend
 
-* node-gzip
-* for md5 use crypto (or crypto-md5)
+#### [node-gzip](https://github.com/Rebsos/node-gzip#readme)
+
+Simply gzip and ungzip in Node.js with promises
+
+#### [crypto-md5](https://github.com/jtblin/crypto-md5)
+
+One line npm that allows to generate md5. Equivalent to:
+
+`crypto.createHash('md5').update(data).digest(digest || 'base64');`
