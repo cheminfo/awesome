@@ -11,6 +11,10 @@ A collection of awesome things for ChemInfo developers
     - [react-dropzone](#react-dropzone)
     - [the-platform](#the-platform)
     - [use-immer](#use-immer)
+- [Back-end](#back-end)
+  - [Buffer utilities](#buffer-utilities)
+    - [node-gzip](#node-gzip)
+    - [crypto-md5](#crypto-md5)
 
 ## Front-end
 
@@ -44,14 +48,15 @@ Web API's turned into React Hooks and Suspense-friendly React components.
 
 A hook to use immer as a React hook to manipulate state.
 
-### Backend
+## Back-end
 
-#### [node-gzip](https://github.com/Rebsos/node-gzip#readme)
+### Buffer utilities
 
-Simply gzip and ungzip in Node.js with promises
+#### [node-gzip](https://github.com/Rebsos/node-gzip)
+
+Simply gzip and ungzip in Node.js with promises.
 
 #### [crypto-md5](https://github.com/jtblin/crypto-md5)
 
-One line npm that allows to generate md5. Use the native node `crypto`library. Equivalent to:
-
-`crypto.createHash('md5').update(data).digest(digest || 'base64');`
+Generates an md5 hash using node crypto module.
+Equivalent to `crypto.createHash('md5').update(data).digest('base64');`.
