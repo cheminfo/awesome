@@ -12,6 +12,8 @@ A collection of awesome things for ChemInfo developers
     - [the-platform](#the-platform)
     - [use-immer](#use-immer)
 - [Back-end](#back-end)
+  - [Querying other servers](#querying-other-servers)
+    - [got](#got)
   - [Buffer utilities](#buffer-utilities)
     - [node-gzip](#node-gzip)
     - [crypto-md5](#crypto-md5)
@@ -49,6 +51,12 @@ Web API's turned into React Hooks and Suspense-friendly React components.
 A hook to use immer as a React hook to manipulate state.
 
 ## Back-end
+
+### Querying other servers
+
+#### [got](https://github.com/sindresorhus/got)
+
+Got is a human-friendly and powerful HTTP request library.
 
 ### Buffer utilities
 
