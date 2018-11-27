@@ -9,6 +9,7 @@ A collection of awesome things for ChemInfo developers
     - [draft-js](#draft-js)
     - [formik](#formik)
     - [react-dropzone](#react-dropzone)
+    - [react-select](#react-select)
     - [the-platform](#the-platform)
     - [use-immer](#use-immer)
 - [Back-end](#back-end)
@@ -41,6 +42,10 @@ Build forms in React, without the tears.
 #### [react-dropzone](https://github.com/react-dropzone/react-dropzone)
 
 Simple HTML5-compliant drag'n'drop zone for files built with React.js.
+
+#### [react-select](https://github.com/JedWatson/react-select)
+
+The Select control for React.
 
 #### [the-platform](https://github.com/palmerhq/the-platform)
 
