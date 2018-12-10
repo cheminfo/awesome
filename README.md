@@ -8,6 +8,7 @@ A collection of awesome things for ChemInfo developers
   - [React](#react)
     - [draft-js](#draft-js)
     - [formik](#formik)
+    - [nivo](#nivo)
     - [react-dropzone](#react-dropzone)
     - [react-mutable-context](#react-mutable-context)
     - [react-select](#react-select)
@@ -39,6 +40,10 @@ Draft.js is a JavaScript rich text editor framework, built for React and backed 
 #### [formik](https://github.com/jaredpalmer/formik)
 
 Build forms in React, without the tears.
+
+#### [nivo](https://github.com/plouc/nivo)
+
+nivo provides supercharged React components to easily build dataviz apps, it's built on top of d3.
 
 #### [react-dropzone](https://github.com/react-dropzone/react-dropzone)
 
