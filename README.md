@@ -9,6 +9,7 @@ A collection of awesome things for ChemInfo developers
     - [draft-js](#draft-js)
     - [formik](#formik)
     - [react-dropzone](#react-dropzone)
+    - [react-mutable-context](#react-mutable-context)
     - [react-select](#react-select)
     - [the-platform](#the-platform)
     - [use-immer](#use-immer)
@@ -42,6 +43,10 @@ Build forms in React, without the tears.
 #### [react-dropzone](https://github.com/react-dropzone/react-dropzone)
 
 Simple HTML5-compliant drag'n'drop zone for files built with React.js.
+
+#### [react-mutable-context](https://github.com/targos/react-mutable-context)
+
+Create a React context that can accessed and mutated with hooks.
 
 #### [react-select](https://github.com/JedWatson/react-select)
 
