@@ -12,6 +12,7 @@ A collection of awesome things for ChemInfo developers
     - [react-dropzone](#react-dropzone)
     - [react-mutable-context](#react-mutable-context)
     - [react-select](#react-select)
+    - [react-window](#react-window)
     - [the-platform](#the-platform)
     - [use-immer](#use-immer)
 - [Back-end](#back-end)
@@ -56,6 +57,10 @@ Create a React context that can accessed and mutated with hooks.
 #### [react-select](https://github.com/JedWatson/react-select)
 
 The Select control for React.
+
+#### [react-window](https://github.com/bvaughn/react-window)
+
+React components for efficiently rendering large lists and tabular data
 
 #### [the-platform](https://github.com/palmerhq/the-platform)
 
