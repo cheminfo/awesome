@@ -21,6 +21,8 @@ A collection of awesome things for ChemInfo developers
   - [Buffer utilities](#buffer-utilities)
     - [node-gzip](#node-gzip)
     - [crypto-md5](#crypto-md5)
+   - Sending email
+     - [nodemailer](nodemailer)
 
 ## Front-end
 
@@ -71,6 +73,12 @@ Web API's turned into React Hooks and Suspense-friendly React components.
 A hook to use immer as a React hook to manipulate state.
 
 ## Back-end
+
+### Sending email
+
+#### [nodemailer](https://github.com/nodemailer/nodemailer)
+
+Send quickly and easily emails from node
 
 ### Querying other servers
 
