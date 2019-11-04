@@ -9,8 +9,9 @@ A collection of awesome things for ChemInfo developers
     - [draft-js](#draft-js)
     - [formik](#formik)
     - [nivo](#nivo)
-    - [react-inspector](#react-inspector)
     - [react-dropzone](#react-dropzone)
+    - [react-fontawesome](#react-fontawesome)
+    - [react-inspector](#react-inspector)
     - [react-mutable-context](#react-mutable-context)
     - [react-select](#react-select)
     - [react-window](#react-window)
@@ -49,14 +50,17 @@ Build forms in React, without the tears.
 
 nivo provides supercharged React components to easily build dataviz apps, it's built on top of d3.
 
-#### [react-inspector](https://github.com/storybookjs/react-inspector)
-
-Advanced component allowing not only to inspect objects but also the DOM. Check the [storybook](https://react-inspector.netlify.com/?selectedKind=Numbers&selectedStory=positive&full=0&addons=1&stories=1&panelRight=0).
-
-
 #### [react-dropzone](https://github.com/react-dropzone/react-dropzone)
 
 Simple HTML5-compliant drag'n'drop zone for files built with React.js.
+
+#### [react-fontawesome](https://github.com/FortAwesome/react-fontawesome)
+
+Font Awesome 5 React component
+
+#### [react-inspector](https://github.com/storybookjs/react-inspector)
+
+Advanced component allowing not only to inspect objects but also the DOM. Check the [storybook](https://react-inspector.netlify.com/?selectedKind=Numbers&selectedStory=positive&full=0&addons=1&stories=1&panelRight=0).
 
 #### [react-mutable-context](https://github.com/targos/react-mutable-context)
 
