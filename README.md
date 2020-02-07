@@ -1,4 +1,4 @@
-# **Awesome ChemInfo**  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# **Awesome ChemInfo** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of awesome things for ChemInfo developers
 
@@ -20,10 +20,11 @@ A collection of awesome things for ChemInfo developers
   - [Querying other servers](#querying-other-servers)
     - [got](#got)
   - [Buffer utilities](#buffer-utilities)
-    - [node-gzip](#node-gzip)
     - [crypto-md5](#crypto-md5)
-   - Sending email
-     - [nodemailer](nodemailer)
+    - [jszip]([jszip])
+    - [node-gzip](#node-gzip)
+  - Sending email
+    - [nodemailer](nodemailer)
 
 ## Front-end
 
@@ -52,7 +53,6 @@ nivo provides supercharged React components to easily build dataviz apps, it's b
 #### [react-inspector](https://github.com/storybookjs/react-inspector)
 
 Advanced component allowing not only to inspect objects but also the DOM. Check the [storybook](https://react-inspector.netlify.com/?selectedKind=Numbers&selectedStory=positive&full=0&addons=1&stories=1&panelRight=0).
-
 
 #### [react-dropzone](https://github.com/react-dropzone/react-dropzone)
 
@@ -94,11 +94,16 @@ Got is a human-friendly and powerful HTTP request library.
 
 ### Buffer utilities
 
-#### [node-gzip](https://github.com/Rebsos/node-gzip)
-
-Simply gzip and ungzip in Node.js with promises.
-
 #### [crypto-md5](https://github.com/jtblin/crypto-md5)
 
 Generates an md5 hash using node crypto module.
 Equivalent to `crypto.createHash('md5').update(data).digest('base64');`.
+
+#### [jszip](https://github.com/Stuk/jszip#readme)
+
+Allows to zip and unzip files with promises. Works
+in Node.js as well as in the browser.
+
+#### [node-gzip](https://github.com/Rebsos/node-gzip)
+
+Simply gzip and ungzip in Node.js with promises.
