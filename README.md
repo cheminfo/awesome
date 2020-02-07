@@ -22,6 +22,8 @@ A collection of awesome things for ChemInfo developers
     - [got](#got)
   - [Buffer utilities](#buffer-utilities)
     - [crypto-md5](#crypto-md5)
+    - [base64-js](#base64-js)
+    - [fast-xml-parser](#fast-xml-parser)
     - [jszip]([jszip])
     - [node-gzip](#node-gzip)
     - [pako](#pako)
@@ -100,10 +102,18 @@ Got is a human-friendly and powerful HTTP request library.
 
 ### Buffer utilities
 
+#### [base64-js](https://github.com/beatgammit/base64-js)
+
+Encode / decode base 64 using bytes array.
+
 #### [crypto-md5](https://github.com/jtblin/crypto-md5)
 
 Generates an md5 hash using node crypto module.
 Equivalent to `crypto.createHash('md5').update(data).digest('base64');`.
+
+#### [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser#readme)
+
+Validate XML, Parse XML to JS/JSON and vice versa, or parse XML to Nimn rapidly without C/C++ based libraries and no callback.
 
 #### [jszip](https://github.com/Stuk/jszip#readme)
 
