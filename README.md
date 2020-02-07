@@ -24,6 +24,7 @@ A collection of awesome things for ChemInfo developers
     - [crypto-md5](#crypto-md5)
     - [jszip]([jszip])
     - [node-gzip](#node-gzip)
+    - [pako](#pako)
   - Sending email
     - [nodemailer](nodemailer)
 
@@ -112,3 +113,7 @@ in Node.js as well as in the browser.
 #### [node-gzip](https://github.com/Rebsos/node-gzip)
 
 Simply gzip and ungzip in Node.js with promises.
+
+#### [pako](https://github.com/nodeca/pako)
+
+High speed zlib port to javascript, works in browser and Node.js.
