@@ -27,6 +27,8 @@ A collection of awesome things for ChemInfo developers
     - [jszip]([jszip])
     - [node-gzip](#node-gzip)
     - [pako](#pako)
+    - [papaparse](#papaparse)
+    - [xlsx](#xlsx)
   - Sending email
     - [nodemailer](nodemailer)
 
@@ -127,3 +129,11 @@ Simply gzip and ungzip in Node.js with promises.
 #### [pako](https://github.com/nodeca/pako)
 
 High speed zlib port to javascript, works in browser and Node.js.
+
+#### [papaparse](https://www.npmjs.com/package/papaparse)
+
+Parse CSV files.
+
+#### [xslx](https://www.npmjs.com/package/xlsx)
+
+Convert excel, xls, xlsx files to json or text.
