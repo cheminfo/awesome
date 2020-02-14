@@ -31,6 +31,9 @@ A collection of awesome things for ChemInfo developers
     - [xlsx](#xlsx)
   - Sending email
     - [nodemailer](nodemailer)
+  - Node applicatins
+    - [pkg](pkg)
+    - [xargs](xargs)
 
 ## Front-end
 
@@ -95,6 +98,16 @@ A hook to use immer as a React hook to manipulate state.
 #### [nodemailer](https://github.com/nodemailer/nodemailer)
 
 Send quickly and easily emails from node
+
+### Node applications
+
+#### [pkg](https://github.com/zeit/pkg#readme)
+
+Allows to create a cross-platform self contained executable
+
+#### [xargs](https://github.com/tarruda/node-xargs)
+
+Parse the arguments given from command line
 
 ### Querying other servers
 
