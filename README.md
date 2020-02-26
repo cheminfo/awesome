@@ -30,10 +30,16 @@ A collection of awesome things for ChemInfo developers
     - [papaparse](#papaparse)
     - [xlsx](#xlsx)
   - Sending email
-    - [nodemailer](nodemailer)
+    - [nodemailer](#nodemailer)
   - Node applicatins
-    - [pkg](pkg)
-    - [xargs](xargs)
+    - [pkg](#pkg)
+    - [xargs](#xargs)
+- [Math and processing](#math-and-processing)
+  - [Pure math](#pure-math)
+    - [ml-matrix](#ml-matrix)
+  - [Processing](#processing)
+    - [fft.js](#fft.js)
+    - [Array](#array)
 
 ## Front-end
 
@@ -101,7 +107,9 @@ Send quickly and easily emails from node
 
 ### Node applications
 
-#### [pkg](https://github.com/zeit/pkg#readme)
+#### pkg
+
+[pkg](https://github.com/zeit/pkg#readme)
 
 Allows to create a cross-platform self contained executable
 
@@ -150,3 +158,17 @@ Parse CSV files.
 #### [xslx](https://www.npmjs.com/package/xlsx)
 
 Convert excel, xls, xlsx files to json or text.
+
+## Math and processing
+
+### Pure math
+
+#### [ml-matrix](https://github.com/mljs/matrix)
+
+Matrix manipulation and computation library
+
+### Processing
+
+#### [fft.js](https://github.com/indutny/fft.js#readme)
+
+
