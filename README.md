@@ -40,6 +40,7 @@ A collection of awesome things for ChemInfo developers
   - [Processing](#processing)
     - [fft.js](#fft.js)
     - [Array](#array)
+    - [Array XY](#array-xy)
 
 ## Front-end
 
@@ -175,16 +176,29 @@ Matrix manipulation and computation library
 
 Fast small packages to get some stats / info on array of numbers.
 
-[ml-array-sequential-fill](https://github.com/mljs/array/tree/master/packages/ml-array-sequential-fill) Fill / create an array with sequential numbers
-[ml-array-min](https://github.com/mljs/array/tree/master/packages/ml-array-min) Get the minimum value in an array
-[ml-array-max](https://github.com/mljs/array/tree/master/packages/ml-array-max) Get the maximum value in an array
-[ml-array-rescale](https://github.com/mljs/array/tree/master/packages/ml-array-rescale) Rescale an array into a range
-[ml-array-mean](https://github.com/mljs/array/tree/master/packages/ml-array-mean) Get the average value in an array
-[ml-array-median](https://github.com/mljs/array/tree/master/packages/ml-array-median) Get the median value in an array
-[ml-array-mode](https://github.com/mljs/array/tree/master/packages/ml-array-mode) Get the first mode value in an array
-[ml-array-normed](https://github.com/mljs/array/tree/master/packages/ml-array-normed) Get a normed array
-[ml-array-sum](https://github.com/mljs/array/tree/master/packages/ml-array-sum) Get the sum or the array elements
-[ml-array-variance](https://github.com/mljs/array/tree/master/packages/ml-array-variance) Get the variance in an array
-[ml-array-standard-deviation](https://github.com/mljs/array/tree/master/packages/ml-array-standard-deviation) Get the standard deviation in an array
+- [ml-array-sequential-fill](https://github.com/mljs/array/tree/master/packages/ml-array-sequential-fill) Fill / create an array with sequential numbers
+- [ml-array-min](https://github.com/mljs/array/tree/master/packages/ml-array-min) Get the minimum value in an array
+- [ml-array-max](https://github.com/mljs/array/tree/master/packages/ml-array-max) Get the maximum value in an array
+- [ml-array-rescale](https://github.com/mljs/array/tree/master/packages/ml-array-rescale) Rescale an array into a range
+- [ml-array-mean](https://github.com/mljs/array/tree/master/packages/ml-array-mean) Get the average value in an array
+- [ml-array-median](https://github.com/mljs/array/tree/master/packages/ml-array-median) Get the median value in an array
+- [ml-array-mode](https://github.com/mljs/array/tree/master/packages/ml-array-mode) Get the first mode value in an array
+- [ml-array-normed](https://github.com/mljs/array/tree/master/packages/ml-array-normed) Get a normed array
+- [ml-array-sum](https://github.com/mljs/array/tree/master/packages/ml-array-sum) Get the sum or the array elements
+- [ml-array-variance](https://github.com/mljs/array/tree/master/packages/ml-array-variance) Get the variance in an array
+- [ml-array-standard-deviation](https://github.com/mljs/array/tree/master/packages/ml-array-standard-deviation) Get the standard deviation in an array
 
+#### Array XY
 
+Fast small packages to get some stats / info on an object containing properties `x` and `y` that are arrays of numbers.
+
+- [ml-array-xy-centroids-merge](https://github.com/mljs/array/tree/master/packages/ml-array-xy-centroids-merge) Merge abscissa values if the ordinate value is - in a list of centroids
+- [ml-array-xy-covariance](https://github.com/mljs/array/tree/master/packages/ml-array-xy-covariance) Calculates covarience of 2 vectors
+- [ml-array-xy-equally-spaced](https://github.com/mljs/array/tree/master/packages/ml-array-xy-equally-spaced) Returns equally spaced data
+- [ml-array-xy-filter-x](https://github.com/mljs/array/tree/master/packages/ml-array-xy-filter-x) Filter data based on x values
+- [ml-array-xy-integrate](https://github.com/mljs/array/tree/master/packages/ml-array-xy-integrate) Integrate data
+- [ml-array-xy-weighted-merge](https://github.com/mljs/array/tree/master/packages/ml-array-xy-weighted-merge) Merge abscissa values on similar ordinates and - weight the group of abscissa
+- [ml-array-xy-max-merge](https://github.com/mljs/array/tree/master/packages/ml-array-xy-max-merge) Merge abscissa values on similar ordinates and keeps the - abscissa with bigger ordinate value
+- [ml-array-xy-max-y](https://github.com/mljs/array/tree/master/packages/ml-array-xy-max-y) Sort a set of point based on the abscissas values
+- [ml-array-xy-weighted-merge](https://github.com/mljs/array/tree/master/packages/ml-array-xy-weighted-merge) Ensure x unique and merge y
+- [ml-arrayxy-uniquex](https://github.com/mljs/array/tree/master/packages/ml-arrayxy-uniquex) Ensure that x values are unique
