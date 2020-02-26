@@ -171,4 +171,20 @@ Matrix manipulation and computation library
 
 #### [fft.js](https://github.com/indutny/fft.js#readme)
 
+#### Array
+
+Fast small packages to get some stats / info on array of numbers.
+
+[ml-array-sequential-fill](https://github.com/mljs/array/tree/master/packages/ml-array-sequential-fill) Fill / create an array with sequential numbers
+[ml-array-min](https://github.com/mljs/array/tree/master/packages/ml-array-min) Get the minimum value in an array
+[ml-array-max](https://github.com/mljs/array/tree/master/packages/ml-array-max) Get the maximum value in an array
+[ml-array-rescale](https://github.com/mljs/array/tree/master/packages/ml-array-rescale) Rescale an array into a range
+[ml-array-mean](https://github.com/mljs/array/tree/master/packages/ml-array-mean) Get the average value in an array
+[ml-array-median](https://github.com/mljs/array/tree/master/packages/ml-array-median) Get the median value in an array
+[ml-array-mode](https://github.com/mljs/array/tree/master/packages/ml-array-mode) Get the first mode value in an array
+[ml-array-normed](https://github.com/mljs/array/tree/master/packages/ml-array-normed) Get a normed array
+[ml-array-sum](https://github.com/mljs/array/tree/master/packages/ml-array-sum) Get the sum or the array elements
+[ml-array-variance](https://github.com/mljs/array/tree/master/packages/ml-array-variance) Get the variance in an array
+[ml-array-standard-deviation](https://github.com/mljs/array/tree/master/packages/ml-array-standard-deviation) Get the standard deviation in an array
+
 
