@@ -41,6 +41,9 @@ A collection of awesome things for ChemInfo developers
     - [fft.js](#fft.js)
     - [Array](#array)
     - [Array XY](#array-xy)
+- [On line tools](#online-tools)
+  - [Graphical](#graphical)
+  - [Javascript](#javascript)
 
 ## Front-end
 
@@ -202,3 +205,15 @@ Fast small packages to get some stats / info on an object containing properties 
 - [ml-array-xy-max-y](https://github.com/mljs/array/tree/master/packages/ml-array-xy-max-y) Sort a set of point based on the abscissas values
 - [ml-array-xy-weighted-merge](https://github.com/mljs/array/tree/master/packages/ml-array-xy-weighted-merge) Ensure x unique and merge y
 - [ml-arrayxy-uniquex](https://github.com/mljs/array/tree/master/packages/ml-arrayxy-uniquex) Ensure that x values are unique
+
+## Online tools
+
+### Graphical
+
+- [figma](https://www.figma.com) Collaborative design application that replaces adobe illustrator
+
+
+### Javascript
+
+- [bundlephobia](https://bundlephobia.com/) Determine the size of your dependencies
+
