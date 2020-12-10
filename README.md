@@ -212,8 +212,7 @@ Fast small packages to get some stats / info on an object containing properties 
 
 - [figma](https://www.figma.com) Collaborative design application that replaces adobe illustrator
 
-
 ### Javascript
 
 - [bundlephobia](https://bundlephobia.com/) Determine the size of your dependencies
-
+- [jspm](https://jspm.org/) Convert npm package to javascript code compatible with the browser
