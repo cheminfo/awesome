@@ -216,3 +216,6 @@ Fast small packages to get some stats / info on an object containing properties 
 
 - [bundlephobia](https://bundlephobia.com/) Determine the size of your dependencies
 - [jspm](https://jspm.org/) Convert npm package to javascript code compatible with the browser
+- [jsonpath](https://jsonpath.com) Evaluate jsonpath
+- [regex101](https://regex101.com/) Test regular expressions
+- [jsbench](https://jsbench.me) Benchmark javascript code
