@@ -41,6 +41,8 @@ A collection of awesome things for ChemInfo developers
     - [fft.js](#fft.js)
     - [Array](#array)
     - [Array XY](#array-xy)
+  - [Spectra](#spectra)
+    - [References for spectroscopy](#references-for-spectroscopy)
 - [On line tools](#online-tools)
   - [Graphical](#graphical)
   - [Javascript](#javascript)
@@ -205,6 +207,12 @@ Fast small packages to get some stats / info on an object containing properties 
 - [ml-array-xy-max-y](https://github.com/mljs/array/tree/master/packages/ml-array-xy-max-y) Sort a set of point based on the abscissas values
 - [ml-array-xy-weighted-merge](https://github.com/mljs/array/tree/master/packages/ml-array-xy-weighted-merge) Ensure x unique and merge y
 - [ml-arrayxy-uniquex](https://github.com/mljs/array/tree/master/packages/ml-arrayxy-uniquex) Ensure that x values are unique
+
+### Spectra
+
+#### References for spectroscopy
+
+https://github.com/wojdyr/xylib
 
 ## Online tools
 
