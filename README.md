@@ -34,6 +34,7 @@ A collection of awesome things for ChemInfo developers
   - Node applicatins
     - [pkg](#pkg)
     - [yargs](#yargs)
+    - [colorette](#colorette)
 - [Math and processing](#math-and-processing)
   - [Pure math](#pure-math)
     - [ml-matrix](#ml-matrix)
@@ -120,6 +121,10 @@ Allows to create a cross-platform self contained executable
 #### [yargs](https://github.com/yargs/yargs)
 
 Parse the arguments given from command line
+
+#### [colorette](https://github.com/jorgebucaran/colorette)
+
+Allows to color the console.log in the terminal
 
 ### Querying other servers
 
