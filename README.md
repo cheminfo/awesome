@@ -33,7 +33,7 @@ A collection of awesome things for ChemInfo developers
     - [nodemailer](#nodemailer)
   - Node applicatins
     - [pkg](#pkg)
-    - [xargs](#xargs)
+    - [minimist](#minimist)
 - [Math and processing](#math-and-processing)
   - [Pure math](#pure-math)
     - [ml-matrix](#ml-matrix)
@@ -119,7 +119,7 @@ Send quickly and easily emails from node
 
 Allows to create a cross-platform self contained executable
 
-#### [xargs](https://github.com/tarruda/node-xargs)
+#### [minimist](https://github.com/substack/minimist)
 
 Parse the arguments given from command line
 
